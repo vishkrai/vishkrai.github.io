@@ -26,7 +26,10 @@ author:
   email                  : "vishal.kumar.rai1994@gmail.com"
   linkedin               : "https://www.linkedin.com/in/vishal-rai-000a2b60/"
   github                 : "vishkrai"
-
+sidebar:
+  position: left
+  display: author
+  author_profile: true
 
 
 # Site Settings

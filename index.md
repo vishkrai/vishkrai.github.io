@@ -1,4 +1,3 @@
-# Vishal Kumar Rai  
 _Ph.D. Candidate in Economics_  
 Indian Statistical Institute, Delhi
 

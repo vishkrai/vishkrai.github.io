@@ -13,7 +13,7 @@ LinkedIn: [Vishal Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)
 ## Welcome
 
 I am a Ph.D. candidate in Economics at the **Indian Statistical Institute – Delhi**, specializing in **life-cycle and macroeconomic modeling** under environmental and epidemiological risks.  
-My research combines **dynamic optimization**, **heterogeneous-agent models**, and **quantitative macroeconomic simulations**, with a focus on how climate, pollution, and health shocks shape labor, retirement, and welfare outcomes.
+My research combines **dynamic optimization**, **heterogeneous-agent models**, and **quantitative macroeconomic simulations**, with a focus on how climate, pollution, and pandemics shape labor, retirement, and welfare outcomes.
 
 ---
 
@@ -55,22 +55,18 @@ This work incorporates occupation-specific exposure to extreme heat into standar
 ## Curriculum Vitae  
 [Download CV (PDF)](VISHAL_K_RAI_CV.pdf)
 
----
 
-_Last updated: December 2025_
 
-## CV
-[Download my CV](files/cv.pdf)  
 
 ## 📬 Contact
 
 Feel free to reach out for collaboration or discussion.
 
-## Contact
 - 📧 Email: [vishal.kumar.rai1994@gmail.com](mailto:vishal.kumar.rai1994@gmail.com)  
 - 🔗 LinkedIn: [Vishal Kumar Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)  
 - 💻 GitHub: [vishkrai](https://github.com/vishkrai)  
 - 🌐 Website: [https://vishkrai.github.io](https://vishkrai.github.io)
-
   
-*Last updated: December 2025*
+---
+
+_Last updated: December 2025_

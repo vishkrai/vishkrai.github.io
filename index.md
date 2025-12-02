@@ -1,11 +1,6 @@
 _Ph.D. Candidate in Economics_  
 Indian Statistical Institute, Delhi
 
-Email: [vishal.kumar.rai1994@gmail.com](mailto:vishal.kumar.rai1994@gmail.com)  
-LinkedIn: [Vishal Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)  
-GitHub: [vishkrai](https://github.com/vishkrai)  
-Website: [https://vishkrai.github.io](https://vishkrai.github.io)
-
 ---
 
 ## Welcome

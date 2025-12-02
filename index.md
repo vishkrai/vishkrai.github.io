@@ -3,7 +3,9 @@ _Ph.D. Candidate in Economics_
 Indian Statistical Institute, Delhi
 
 Email: [vishal.kumar.rai1994@gmail.com](mailto:vishal.kumar.rai1994@gmail.com)  
-LinkedIn: [Vishal Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)
+LinkedIn: [Vishal Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)  
+GitHub: [vishkrai](https://github.com/vishkrai)  
+Website: [https://vishkrai.github.io](https://vishkrai.github.io)
 
 ---
 
@@ -43,27 +45,13 @@ This work incorporates occupation-specific exposure to extreme heat into standar
 **Teaching Assistant, ISI Delhi**  
 - Macroeconomics I  
 - Global Macroeconomics  
-(Supervisor: Prof. Chetan Ghate)
+*Supervisor: Prof. Chetan Ghate*
 
 ---
-
-
 
 ## Curriculum Vitae  
 [Download CV (PDF)](VISHAL_K_RAI_CV.pdf)
 
-
-
-
-## 📬 Contact
-
-Feel free to reach out for collaboration or discussion.
-
-- 📧 Email: [vishal.kumar.rai1994@gmail.com](mailto:vishal.kumar.rai1994@gmail.com)  
-- 🔗 LinkedIn: [Vishal Kumar Rai](https://www.linkedin.com/in/vishal-rai-000a2b60/)  
-- 💻 GitHub: [vishkrai](https://github.com/vishkrai)  
-- 🌐 Website: [https://vishkrai.github.io](https://vishkrai.github.io)
-  
 ---
 
 _Last updated: December 2025_

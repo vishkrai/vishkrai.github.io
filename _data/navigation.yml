@@ -8,5 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Home"
+    url: /
   - title: "CV"
     url: /VISHAL_K_RAI_CV.pdf

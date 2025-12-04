@@ -1,11 +1,9 @@
 ---
 layout: single
-title: ""
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 ---
-
-## Research Interests
 
 - Macroeconomic Policy  
 - Life-Cycle Models  

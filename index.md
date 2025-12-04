@@ -1,3 +1,8 @@
+---
+layout: home
+author_profile: true
+---
+
 _Ph.D. Candidate in Economics_  
 Indian Statistical Institute, Delhi
 

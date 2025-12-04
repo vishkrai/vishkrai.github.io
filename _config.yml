@@ -31,11 +31,6 @@ author:
   github      : "https://github.com/vishkrai"
   website     : "https://vishkrai.github.io"
 
-sidebar:
-  position    : left
-  display     : author
-  author_profile: true
-
 # ===========================
 # Site Settings
 # ===========================

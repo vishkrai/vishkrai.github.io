@@ -10,5 +10,7 @@
 main:
   - title: "Home"
     url: /
+  - title: "Research"
+    url: /research/
   - title: "CV"
     url: /VISHAL_K_RAI_CV.pdf

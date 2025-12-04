@@ -1,10 +1,9 @@
 ---
 layout: single
 author_profile: true
+title: "Welcome"
 ---
 
-
-## Welcome!
 
 
 I am a Ph.D. candidate in Economics at the Indian Statistical Institute, Delhi, where I work at the intersection of life-cycle dynamics, macroeconomic modeling, and environmental risks. My research examines how climate change, pollution, and epidemiological shocks affect labor markets, retirement decisions, health investment, and long-run welfare.

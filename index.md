@@ -1,8 +1,12 @@
 ---
+
 layout: page
 title: "Home"
 author_profile: true
+permalink: /
+
 ---
+
 
 _Ph.D. Candidate in Economics_  
 Indian Statistical Institute, Delhi

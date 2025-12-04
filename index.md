@@ -6,12 +6,14 @@ author_profile: true
 
 _Ph.D. Candidate in Economics_  
 Indian Statistical Institute, Delhi
+
 ---
 
 ## Welcome
 
 I am a Ph.D. candidate in Economics at the **Indian Statistical Institute – Delhi**, specializing in **life-cycle and macroeconomic modeling** under environmental and epidemiological risks. Prior to this, I completed my **Master’s in Economics from the Delhi School of Economics (DSE)**, where I built a strong foundation in advanced economic theory and quantitative methods. 
 My research combines **dynamic optimization**, **heterogeneous-agent models**, and **quantitative macroeconomic simulations**, with a focus on how climate, pollution, and pandemics shape labor, retirement, and welfare outcomes.
+
 ---
 
 ## Research Interests
@@ -21,7 +23,8 @@ My research combines **dynamic optimization**, **heterogeneous-agent models**, a
 - Social Protection & Public Finance  
 - Climate & Health Economics  
 - Computational Macroeconomics  
-- Dynamic Optimization & Simulation  
+- Dynamic Optimization & Simulation
+- 
 ---
 
 ## Research
@@ -34,6 +37,7 @@ A macro–life-cycle model of health investment, consumption, and retirement whe
 
 ### Occupational Vulnerability to Extreme Heat: A Life-Cycle Model  
 This work incorporates occupation-specific exposure to extreme heat into standard retirement models. It shows how differential vulnerability shapes labor effort, retirement timing, and welfare dispersion across workers.
+
 ---
 
 ## Teaching
@@ -42,10 +46,12 @@ This work incorporates occupation-specific exposure to extreme heat into standar
 - Macroeconomics I  
 - Global Macroeconomics  
 *Supervisor: Prof. Chetan Ghate*
+
 ---
 
 ## Curriculum Vitae  
 [Download CV (PDF)](VISHAL_K_RAI_CV.pdf)
+
 ---
 
 _Last updated: December 2025_

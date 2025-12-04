@@ -28,7 +28,7 @@ My research combines **dynamic optimization**, **heterogeneous-agent models**, a
 - Climate & Health Economics  
 - Computational Macroeconomics  
 - Dynamic Optimization & Simulation
-- 
+  
 ---
 
 ## Research

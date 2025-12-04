@@ -5,7 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research
+## Research Interests
+
+- Macroeconomic Policy  
+- Life-Cycle Models  
+- Social Protection & Public Finance  
+- Climate & Health Economics  
+- Computational Macroeconomics  
+- Dynamic Optimization & Simulation
+  
+---
+
+## Working papers
 
 ### Climate, Pollution and Endogenous Retirement  
 This paper studies how pollution-induced health deterioration affects retirement decisions and abatement incentives. Using a dynamic life-cycle framework with endogenous health effort, it quantifies welfare and policy implications.

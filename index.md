@@ -1,13 +1,11 @@
-_Ph.D. Candidate in Economics_  
-Indian Statistical Institute, Delhi
+## Welcome!
 
----
+I am a Ph.D. candidate in Economics at the Indian Statistical Institute, Delhi, where I work at the intersection of life-cycle dynamics, macroeconomic modeling, and environmental risks. My research examines how climate change, pollution, and epidemiological shocks affect labor markets, retirement decisions, health investment, and long-run welfare.
 
-## Welcome
+Before joining ISI Delhi, I earned my Master’s in Economics from the Delhi School of Economics (DSE), where I developed a strong grounding in economic theory, dynamic methods, and empirical analysis.
 
-I am a Ph.D. candidate in Economics at the **Indian Statistical Institute – Delhi**, specializing in **life-cycle and macroeconomic modeling** under environmental and epidemiological risks. Prior to this, I completed my **Master’s in Economics from the Delhi School of Economics (DSE)**, where I built a strong foundation in advanced economic theory and quantitative methods. 
+My current work combines dynamic optimization, structural life-cycle modeling, and quantitative simulations to study how individuals adapt to environmental and health-related risks across occupations and over the life course.
 
-My research combines **dynamic optimization**, **heterogeneous-agent models**, and **quantitative macroeconomic simulations**, with a focus on how climate, pollution, and pandemics shape labor, retirement, and welfare outcomes.
 
 ---
 

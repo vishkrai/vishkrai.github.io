@@ -10,7 +10,7 @@
 # Basic Site Settings
 # ===========================
 locale        : "en-US"
-remote_theme  : "mmistakes/minimal-mistakes"
+site_theme    : "neon"
 minimal_mistakes_skin: "dark"
 title         : "Vishal Kumar Rai"
 title_separator: "-"

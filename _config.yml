@@ -10,8 +10,8 @@
 # Basic Site Settings
 # ===========================
 locale        : "en-US"
-site_theme: "default"
-minimal_mistakes_skin: "dark"
+site_theme    : "default"                      # Theme variant (default, air, contrast, dark, etc.)
+minimal_mistakes_skin: "dark"                  # Skin overlay (light, dark, neon, mint, sunrise)
 title_separator: "-"
 name          : "Vishal Kumar Rai"
 description   : "Research Scholar in Quantitative Economics, ISI Delhi"
@@ -29,8 +29,9 @@ author:
   location    : "Delhi, India"
   email       : "vishal.kumar.rai1994@gmail.com"
   linkedin    : "vishal-rai-000a2b60"
-  github      : "vishalkumarrai-1994"
+  github      : "vishalkumarrai-1994"          # Use just the username, not full URL
   website     : "https://vishkrai.github.io"
+
 
 # ===========================
 # Site Settings

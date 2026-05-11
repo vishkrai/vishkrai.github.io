@@ -93,10 +93,7 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-sass:
-  sass_dir: _sass
-
+    
 # Reading Files
 include:
   - .htaccess

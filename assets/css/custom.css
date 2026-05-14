@@ -11,16 +11,16 @@ body {
 body {
   background: url("/assets/background.png") no-repeat center center fixed;
   background-size: cover;
-  background-color: #e8e6e0; /* neutral fallback */
+  background-color: #f9f9f9; /* very light fallback */
 }
 
-/* Overlay tuned for balance */
+/* Overlay tuned for faint background */
 body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.35); /* lighter overlay so background shows */
-  backdrop-filter: blur(1px); /* subtle blur only */
+  background: rgba(255,255,255,0.75); /* much lighter overlay, background barely visible */
+  backdrop-filter: blur(1px);
   pointer-events: none;
   z-index: 0;
 }
@@ -46,7 +46,7 @@ h1, h2, h3 {
     color: #000000;
   }
   body::before {
-    background: rgba(255,255,255,0.25); /* lighter overlay for night */
+    background: rgba(255,255,255,0.65); /* faint overlay for night */
     backdrop-filter: blur(1px) brightness(0.9);
   }
 }

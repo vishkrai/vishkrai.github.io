@@ -37,14 +37,6 @@ h1, h2, h3 {
   color: #000000; /* headings also black */
 }
 
-.sidebar-profile img {
-  width: 150px;       /* or whatever size you prefer */
-  height: auto;       /* keeps proportions */
-  display: block;
-  margin: 0 auto;     /* centers it */
-  border-radius: 0;   /* removes circle/ellipse, keeps original square/rectangle */
-}
-
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   body {

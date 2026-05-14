@@ -19,7 +19,7 @@ body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.35); /* lighter overlay so background shows */
+  background: rgba(255,255,255,0.8); /* lighter overlay so background shows */
   backdrop-filter: blur(1px); /* subtle blur only */
   pointer-events: none;
   z-index: 0;

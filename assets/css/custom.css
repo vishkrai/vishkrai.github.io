@@ -41,6 +41,19 @@ h1, h2, h3 {
   border-radius: 0 !important;
 }
 
+.greedy-nav .visible-links {
+  display: flex;
+  width: 100%;
+}
+
+.greedy-nav .visible-links li.masthead__menu-item--lg {
+  margin-right: auto; /* pushes all other items to the right */
+}
+
+.greedy-nav .visible-links li {
+  margin-left: 20px; /* spacing between tabs */
+}
+
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {

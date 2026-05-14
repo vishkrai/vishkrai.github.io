@@ -37,10 +37,12 @@ h1, h2, h3 {
   color: #000000; /* headings also black */
 }
 
+/* Sidebar avatar image: keep square/rectangle */
 .author__avatar img {
   border-radius: 0 !important;
 }
 
+/* Masthead navigation alignment */
 .greedy-nav .visible-links {
   display: flex;
   width: 100%;
@@ -54,6 +56,15 @@ h1, h2, h3 {
   margin-left: 20px; /* spacing between tabs */
 }
 
+/* Prevent collapse into hamburger on desktop */
+@media (min-width: 768px) {
+  .greedy-nav .hidden-links {
+    display: none !important;
+  }
+  #site-nav button {
+    display: none !important;
+  }
+}
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {

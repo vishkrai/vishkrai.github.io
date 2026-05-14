@@ -23,7 +23,7 @@ repository    : "vishkrai/vishkrai.github.io"  # Your repo path
 # Author Information
 # ===========================
 author:
-  avatar      : "profile.png"                  # Place image in /assets/images
+  avatar      : "image dse vishal.jpg"                  # Place image in /assets/images
   name        : "Vishal Kumar Rai"
   bio         : "Research Scholar in Quantitative Economics, ISI Delhi"
   location    : "Delhi, India"

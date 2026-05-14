@@ -10,7 +10,11 @@ author_profile: true
 
 Here are links to my repositories containing Julia scripts and models:
 
-- [Occupational Vulnerability Work Strain](https://github.com/vishalkumarrai-1994/occupational-vulnerability-work-strain) *(access available on request)*
+
+-[Occupational Vulnerability to Work Strain: A Life-Cycle Model of Retirement and Welfare](https://github.com/vishalkumarrai-1994/occupational-vulnerability-work-strain) *(access available on request)*
+
+-[Endogenous Retirement under a Pandemic](https://github.com/vishalkumarrai-1994/endogenous-retirement-pandemic) *(access available on request)*
+
 
 ---
 

@@ -19,55 +19,34 @@ body::before {
   content: "";
   position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.75); /* faint white overlay */
+  background: rgba(255,255,255,0.75); /* faint white overlay, background very light */
   backdrop-filter: blur(1px);
   pointer-events: none;
-  z-index: 0; /* behind content */
+  z-index: 0;
 }
 
-/* Very dark vignette on background only */
-body::after {
-  content: "";
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: radial-gradient(ellipse at center,
-    rgba(0,0,0,0) 55%,     /* clear center */
-    rgba(0,0,0,0.85) 100%  /* very dark edges */
-  );
-  background-size: 120% 100%; /* horizontal stretch for spotlight effect */
-  pointer-events: none;
-  z-index: 0; /* stays behind text */
-}
-
-/* Ensure main content sits above overlays */
+/* Ensure main content sits above overlay */
 .main, .page__content {
   position: relative;
   z-index: 1;
-  color: #000000; /* enforce black text */
+  color: #000000; /* enforce black text inside content */
 }
 
 /* Headings */
 h1, h2, h3 {
-  color: #000000;
+  color: #000000; /* headings also black */
 }
 
 /* Dark mode adjustments */
 @media (prefers-color-scheme: dark) {
   body {
-    color: #ffffff; /* switch to white text */
+    color: #000000; /* keep black text even in dark mode */
   }
   h1, h2, h3 {
-    color: #ffffff;
+    color: #000000;
   }
   body::before {
-    background: rgba(255,255,255,0.6); /* faint overlay for night */
+    background: rgba(255,255,255,0.65); /* faint overlay for night */
     backdrop-filter: blur(1px) brightness(0.9);
-  }
-  body::after {
-    background: radial-gradient(ellipse at center,
-      rgba(0,0,0,0) 50%,    /* clear spotlight center */
-      rgba(0,0,0,0.9) 100%  /* even darker edges at night */
-    );
-    background-size: 120% 100%;
   }
 }

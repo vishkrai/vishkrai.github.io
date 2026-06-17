@@ -13,11 +13,6 @@ Before joining ISI Delhi, I earned my Master’s in Economics from the Delhi Sch
 My current work combines dynamic optimization, structural life-cycle modeling, and quantitative simulations to study how individuals adapt to environmental and health-related risks across occupations and over the life course. I also develop computational tools for solving structural macroeconomic models with regime switching, including SwitchingControl.jl (Julia package; available in the Julia General Registry).
 
 
----
-
-
-## Curriculum Vitae  
-[Download CV (PDF)](VISHAL_KUMAR_RAI_CV.pdf)
 
 ---
 

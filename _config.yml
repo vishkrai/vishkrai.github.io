@@ -14,7 +14,7 @@ site_theme    : "default"                      # Theme variant (default, air, co
 minimal_mistakes_skin: "dark"                  # Skin overlay (light, dark, neon, mint, sunrise)
 title_separator: "-"
 name          : "Vishal Kumar Rai"
-description   : "Research Scholar in Quantitative Economics, ISI Delhi"
+description   : "Research Associate at CSEP | Economics, ISI Delhi"
 url           : "https://vishkrai.github.io"   # Your GitHub Pages URL
 baseurl       : ""                             # Leave empty for personal site
 repository    : "vishkrai/vishkrai.github.io"  # Your repo path
@@ -23,9 +23,9 @@ repository    : "vishkrai/vishkrai.github.io"  # Your repo path
 # Author Information
 # ===========================
 author:
-  avatar      : "image dse vishal.jpg"                  # Place image in /assets/images
+  avatar      : "image vishal.jpg"                  # Place image in /assets/images
   name        : "Vishal Kumar Rai"
-  bio         : "Research Scholar in Quantitative Economics, ISI Delhi"
+  bio         : "Research Associate at CSEP | Economics, ISI Delhi"
   location    : "Delhi, India"
   email       : "vishal.kumar.rai1994@gmail.com"
   linkedin    : "vishal-rai-000a2b60"

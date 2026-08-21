@@ -1,17 +1,16 @@
 ---
-
 layout: single
 title: "Research Interests"
 permalink: /research/
 author_profile: true
---------------------
+---
 
-* Macroeconomic Policy
-* Life-Cycle Economics
-* Social Protection & Public Finance
-* Climate & Health Economics
-* Computational Economics
-* Dynamic Optimization & Simulation
+- Macroeconomic Policy
+- Life-Cycle Economics
+- Social Protection & Public Finance
+- Climate & Health Economics
+- Computational Economics
+- Dynamic Optimization & Simulation
 
 ---
 

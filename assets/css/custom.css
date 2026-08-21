@@ -1,73 +1,72 @@
-/* Base typography */
+/* ===========================
+   Base Typography
+   =========================== */
+
 body {
-  font-size: 14px;
-  line-height: 1.6;
+  font-size: 15px;
+  line-height: 1.7;
   margin: 0;
   padding: 0;
-  color: #000000; /* force black text */
 }
 
-/* Background image */
+
+/* ===========================
+   Clean Background
+   =========================== */
+
 body {
-  background: url("/assets/background.png") no-repeat center center fixed;
-  background-size: cover;
-  background-color: #f9f9f9; /* very light fallback */
+  background: #1c1c1c;
 }
 
-/* Overlay tuned for faint background */
-body::before {
-  content: "";
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255,255,255,0.75); /* faint white overlay */
-  backdrop-filter: blur(1px);
-  pointer-events: none;
-  z-index: 0;
-}
 
-/* Ensure main content sits above overlay */
-.main, .page__content {
+/* ===========================
+   Main Content
+   =========================== */
+
+.main,
+.page__content {
   position: relative;
-  z-index: 1;
-  color: #000000; /* enforce black text inside content */
 }
 
-/* Headings */
-h1, h2, h3 {
-  color: #000000; /* headings also black */
+
+/* ===========================
+   Headings
+   =========================== */
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
 }
 
-/* Sidebar avatar image: keep square/rectangle */
+
+/* ===========================
+   Sidebar Avatar
+   =========================== */
+
 .author__avatar img {
   border-radius: 0 !important;
 }
 
+
+/* ===========================
+   Site Title
+   =========================== */
+
 .masthead__title a {
-  font-size: 2.0rem;        /* bigger size */
-  font-weight: 700;         /* bold */
-  text-decoration: none;    /* no underline */
-  font-family: 'Helvetica', sans-serif;
+  font-size: 2.0rem;
+  font-weight: 700;
+  text-decoration: none;
+  font-family: "Helvetica", sans-serif;
 }
+
+
+/* ===========================
+   Masthead Layout
+   =========================== */
 
 .masthead__inner-wrap {
   display: flex;
-  justify-content: space-between; /* name left, nav right */
+  justify-content: space-between;
   align-items: center;
-}
-
-
-
-
-/* Dark mode adjustments */
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #000000; /* keep black text even in dark mode */
-  }
-  h1, h2, h3 {
-    color: #000000; /* headings stay black */
-  }
-  body::before {
-    background: rgba(255,255,255,0.65); /* faint overlay for night */
-    backdrop-filter: blur(1px) brightness(0.9);
-  }
 }

@@ -1,9 +1,8 @@
 ---
-
 layout: single
 author_profile: true
 title: "Welcome!"
------------------
+---
 
 I am a Research Associate at the Centre for Social and Economic Progress (CSEP), New Delhi, and have submitted my Ph.D. thesis in Economics at the Indian Statistical Institute, Delhi. My research lies at the intersection of life-cycle dynamics, macroeconomic modeling, and environmental and health risks. I study how climate change, pollution, and epidemiological shocks affect labor markets, retirement decisions, health investment, and long-run welfare.
 
@@ -13,4 +12,4 @@ My research combines dynamic optimization, structural life-cycle modeling, and q
 
 ---
 
-*Last updated: {{ site.time | date: "%B %Y" }}*
+_Last updated: {{ site.time | date: "%B %Y" }}_
